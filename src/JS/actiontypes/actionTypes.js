@@ -1,0 +1,3 @@
+export const ADDMOVIE="ADDMOVIE"
+export const FILTTERBYNAME="FILTTERBYNAME"
+export const   GETDETAILS="GETDETAILS"
